@@ -1,0 +1,9 @@
+coverage
+perf
+pkg
+rdoc
+*.gem
+*.swp
+tmp
+_site
+

@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require File.join(File.dirname(__FILE__), *%w(.. spec spec_helper))
+
+IRB.start
+
